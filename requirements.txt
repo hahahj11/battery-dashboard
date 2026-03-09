@@ -7,6 +7,3 @@ statsmodels
 scikit-learn==1.4.2
 shap
 catboost
-matplotlib
-seaborn
-xgboost
