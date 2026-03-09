@@ -4,7 +4,7 @@ numpy
 plotly
 scipy
 statsmodels
-scikit-learn==1.6.1
+scikit-learn==1.4.2
 shap
 catboost
 matplotlib
